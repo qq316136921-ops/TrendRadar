@@ -1,16 +1,5 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-
-智元
-灵犀
-稚晖君
 
 字节
 bytedance
@@ -22,18 +11,12 @@ bytedance
 NVIDIA
 黄仁勋
 
-AMD
-
 谷歌
 google
 gemini
 
-deepmind
 chatgpt
 openai
-sora
-claude
-Anthropic
 
 阿里
 千问
@@ -42,11 +25,7 @@ Anthropic
 
 AI电商
 AI应用
-
-iphone
-ipad
-mac
-ios
+AI望远镜
 
 ai
 人工智能
@@ -63,8 +42,8 @@ ai
 航天
 卫星
 商业航天
-
-统一
+朱雀3
+长征
 
 折叠屏
 端侧
